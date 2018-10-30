@@ -9,9 +9,6 @@ import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-/**
- * Created by angoti on 31/10/2017.
- */
 
 public class RetrofitService {
 
